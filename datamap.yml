@@ -1,0 +1,5 @@
+datamap:
+    jenkinshost: http://sl-jenkins.thunderhead.io/api/python/
+    jenkinsuser: sunlight.gen
+    token: 06dfa22d7b7469b8c2f9c6ebb15b1674
+    sparkRoom: https://api.ciscospark.com/hydra/api/v1/webhooks/incoming/Y2lzY29zcGFyazovL3VzL1dFQkhPT0svYjI0ODE5NGEtMTU3Yi00MGZkLWI1YWQtOGQ1NGRiZTk3MWQ4
